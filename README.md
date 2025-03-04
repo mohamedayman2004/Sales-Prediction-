@@ -23,10 +23,3 @@ This project predicts sales based on advertising budgets using a Linear Regressi
 
 **Linear Regression** – Analyzes the relationship between advertising spend and sales.
 
-## 🚀 Installation & Usage
-
-### 📥 Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/sales-prediction.git
-cd sales-prediction
